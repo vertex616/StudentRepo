@@ -5,7 +5,7 @@ void testMethod1()
   //First command x = y + z
   //Second commnad print(x)
  // Edit made by Yousaf Ahmed Bazaz 220000253.
- // edited by a student
+ // edited by a student and an amazing person
   //Last line print('Good bye')
 }
 
